@@ -2,11 +2,11 @@
 <!-- ![Hi, I'm Divyarajsinh 👋 I'm a 🚀 Flutter developer 🚀 I ❤️ Flutter ❤️] -->
 <h3 align="center">A passionate software developer from India</h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20Flutter%20Developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20Flutter%20Developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BrijeshGoyani99&margin-w=5&margin-h=5&column=7" alt="BrijeshGoyani99" /></a> </p>
+<p align="center"> <a><img src="https://github-profile-trophy.vercel.app/?username=BrijeshGoyani99&margin-w=5&margin-h=5&column=7" alt="BrijeshGoyani99" /></a> </p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 🔭 I’m currently working on **Wetune**
@@ -41,7 +41,7 @@
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=BrijeshGoyani99&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+    <a><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=BrijeshGoyani99&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
@@ -50,7 +50,7 @@
   <br/>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="BrijeshGoyani99's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BrijeshGoyani99&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a><img alt="BrijeshGoyani99's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BrijeshGoyani99&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
   
   
